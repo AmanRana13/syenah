@@ -1,4 +1,4 @@
-import "./App.css";
+import SetUp from "./routes";
 
 function App() {
   return <SetUp />;
